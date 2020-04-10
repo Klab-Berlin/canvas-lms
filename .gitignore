@@ -85,3 +85,6 @@ coverage-karma
 
 # generated graphql schema
 schema.graphql
+
+# Custom - Config - Capistrano:
+config/deploy/*.rb
